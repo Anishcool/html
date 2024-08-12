@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: deeppink;
+}
+img {
+    width: 50px;
+    display: block;
+    margin-left: 650px;
+
+}
+p{
+    text-align: center;
+    color: rgba(248, 15, 15, 0.897);
+}
